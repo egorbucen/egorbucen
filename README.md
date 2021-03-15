@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @egorbucen
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning at IT school "Teach Me Skills"
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me egorbucen@gmail.com
 
 <!---
